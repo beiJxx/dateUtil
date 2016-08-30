@@ -319,7 +319,6 @@ public class DateUtil {
 	
 	public static void main(String[] args) throws ParseException {
 		System.out.println(getLastWeekFirstDay(Calendar.SUNDAY));
-		System.out.println("====================================");
 		
 	}
 	
